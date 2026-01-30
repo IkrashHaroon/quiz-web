@@ -10,7 +10,6 @@ const tryAgainBtn = document.querySelector('.tryAgain-btn');
 const goHomeBtn = document.querySelector('.goHome-btn');
 
 
-
 startBtn.onclick = () => {
     popupInfo.classList.add('active');
     main.classList.add('active')
@@ -18,9 +17,4 @@ startBtn.onclick = () => {
 exitBtn.onclick = () => {
     popupInfo.classList.remove('active');
     main.classList.remove('active')
-}
-continueBtn.onclick = () => {
-   quizSection.classList.add('active');
-    popupInfo.classList.remove('active');
-    main.classList.remove('active')   
 }

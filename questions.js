@@ -18,7 +18,7 @@ let questions = [
             "A. Cascading Style Sheet",
             "B. Cute Style Sheet",
             "C. Computer Style Sheet",
-            "D. Codehal Style Sheet"
+            "D. Code Style Sheet"
         ]
     },
     {
